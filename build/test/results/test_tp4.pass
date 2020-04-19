@@ -1,0 +1,34 @@
+---
+:source:
+  :path: test
+  :file: test_tp4.c
+:successes:
+- :test: test_rtcAddressCheck
+  :line: 39
+  :message: ''
+  :unity_test_time: 0
+- :test: test_rtcInitDateCheck
+  :line: 44
+  :message: ''
+  :unity_test_time: 0
+- :test: test_rtcInitTimeCheck
+  :line: 53
+  :message: ''
+  :unity_test_time: 0
+- :test: test_rtcInitAlarmCheck
+  :line: 62
+  :message: ''
+  :unity_test_time: 0
+- :test: test_rtcReadCheck
+  :line: 71
+  :message: ''
+  :unity_test_time: 0
+:failures: []
+:ignores: []
+:counts:
+  :total: 5
+  :passed: 5
+  :failed: 0
+  :ignored: 0
+:stdout: []
+:time: 0.0020653709943871945
